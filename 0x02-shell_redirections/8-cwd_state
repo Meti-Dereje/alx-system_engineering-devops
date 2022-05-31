@@ -1,2 +1,2 @@
 #!/bin/bash
-shred ls_cwd_content
+ls -|a > |s_cwd_content
